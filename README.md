@@ -2,10 +2,10 @@
 # Blum Bot
 Auto Claim Blum
 
-Join Here : [Blum](https://t.me/BlumCryptoBot/app?startapp=ref_lHZLjPuq0F)
+Join Here : [Blum](https://t.me/BlumCryptoBot/app?startapp=ref_dRujyWlaFu)
 Butuh invite code biar ga whitelist
 
-Gunakan Link ini (ABIS KEKNYA)
+Gunakan Link ini
 [Ref 1](https://t.me/blum/app?startapp=ref_dRujyWlaFu)
 
 ## Installation
